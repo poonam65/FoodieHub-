@@ -63,7 +63,7 @@
                 @empty
                 <tr>
                     <td colspan="7" class="text-center text-muted py-4">
-                        Koi review nahi hai
+                        "No reviews yet" 
                     </td>
                 </tr>
                 @endforelse
